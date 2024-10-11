@@ -13,7 +13,7 @@
 
 > ### 👉 Skills: 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&duration=400&pause=1000&color=D400F7&width=435&lines=Back+End;Full+Stack+Developer;Web+Developer;Front+End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&duration=400&pause=1000&color=D400F7&width=435&lines=Back+End;Full+Stack+Developer;Web+Developer;Front+End;Discord+Bot+Developer)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
