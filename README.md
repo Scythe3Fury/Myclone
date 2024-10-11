@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=30&pause=1000&color=45F7F0&center=true&width=435&lines=RUSSELL-DEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=30&duration=5000&pause=1000&color=45F7F0&center=true&width=435&lines=RUSSELL-DEV)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&duration=500&pause=1000&color=233AF7&center=true&width=435&lines=GITHUB.COM%2FSCYTHE3FURY)](https://git.io/typing-svg)
 
